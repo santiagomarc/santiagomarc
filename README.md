@@ -1,6 +1,9 @@
 <div align="center">
-  <h1>Hi 👋, I'm Marc Santiago</h1>
-  <h3>A curious full-stack developer from Laguna</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Marc+Santiago;Building+the+future+with+AI" alt="Typing SVG" />
+  </a>
+
+  <h3>An adaptable full-stack developer from Laguna</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=santiagomarc&label=Profile%20views&color=0077b5&style=flat" alt="Profile Views" />
@@ -47,7 +50,7 @@
   <a href="mailto:santiagomarcstephen@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME-HERE">
+  <a href="https://www.linkedin.com/in/marc-stephen-santiago-89b1a33b0/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/sanmigo_oy">
