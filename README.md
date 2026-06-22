@@ -1,9 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Marc+Santiago;Building+the+future+with+AI" alt="Typing SVG" />
-  </a>
 
-  <h3>An adaptable full-stack developer from Laguna</h3>
+  <h3>An adaptable full-stack developer from BatStateU</h3>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=santiagomarc&label=Profile%20views&color=0077b5&style=flat" alt="Profile Views" />
